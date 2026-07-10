@@ -19,19 +19,10 @@ A URL shortening service built using Python and Flask. This project converts lon
 - Base62 Encoding
 - REST API
 
-## File Description
-| app.py | Contains Flask API routes for URL shortening and redirection |
-| database.py | Handles SQLite database connection and table creation |
-| encoder.py | Implements Base62 encoding algorithm |
-| cache.py | Handles optional Redis cache configuration |
-| requirements.txt | Contains required Python packages |
-| urls.db | Stores URL mappings |
-| README.md | Project documentation |
-
 ## Installation
 
 ### 1. Clone the repository
-git clone <>
+git clone <https://github.com/Yashu123403/Distributed-URL-Shortner.git>
 
 ### 2. Navigate to the project directory
 cd distributed-url-shortener
